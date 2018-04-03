@@ -1,0 +1,568 @@
+2017-03-10T18:47:10.858: Sever ready to accept a new client.
+2017-03-10T18:54:49.886: Sever ready to accept a new client.
+2017-03-10T18:54:49.886: Socket connected: /68.234.152.219:60802
+2017-03-10T18:54:49.886: Added client to client storage.
+2017-03-10T18:54:49.886: Wrote to server.
+2017-03-10T18:54:49.886: Sucessfully wrote to client.
+2017-03-10T18:54:49.886: Wrote to server.
+2017-03-10T18:54:49.886: Sucessfully wrote to client.
+2017-03-10T18:54:49.886: Sever ready to accept a new client.
+2017-03-10T18:58:40.419: Sever ready to accept a new client.
+2017-03-10T18:58:40.419: Socket connected: /68.234.152.219:60897
+2017-03-10T18:58:40.419: Added client to client storage.
+2017-03-10T18:58:40.419: Wrote to server.
+2017-03-10T18:58:40.419: Sucessfully wrote to client.
+2017-03-10T18:58:40.419: Wrote to server.
+2017-03-10T18:58:40.419: Sucessfully wrote to client.
+2017-03-10T18:58:40.419: Sever ready to accept a new client.
+2017-03-10T19:00:27.206: Sever ready to accept a new client.
+2017-03-10T19:00:27.206: Socket connected: /68.234.152.219:60910
+2017-03-10T19:00:27.206: Added client to client storage.
+2017-03-10T19:00:27.206: Wrote to server.
+2017-03-10T19:00:27.206: Sucessfully wrote to client.
+2017-03-10T19:00:27.206: Wrote to server.
+2017-03-10T19:00:27.206: Sucessfully wrote to client.
+2017-03-10T19:00:27.206: Sever ready to accept a new client.
+2017-03-10T19:00:27.206: Socket connected: /68.234.152.219:60911
+2017-03-10T19:00:27.206: Added client to client storage.
+2017-03-10T19:00:27.206: Wrote to server.
+2017-03-10T19:00:27.206: Sucessfully wrote to client.
+2017-03-10T19:00:27.206: Wrote to server.
+2017-03-10T19:00:27.206: Sucessfully wrote to client.
+2017-03-10T19:00:27.206: Getting socket.
+2017-03-10T19:00:27.206: Getting socket.
+2017-03-10T19:00:27.206: Getting socket.
+2017-03-10T19:00:27.206: Sever ready to accept a new client.
+2017-03-10T19:00:27.206: Getting socket.
+2017-03-10T19:00:27.206: Client has disconnected.
+2017-03-11T12:51:55.658: Sever ready to accept a new client.
+2017-03-11T12:51:55.658: Socket connected: /10.250.23.141:56664
+2017-03-11T12:51:55.658: Added client to client storage.
+2017-03-11T12:51:55.658: Wrote to server.
+2017-03-11T12:51:55.658: Sucessfully wrote to client.
+2017-03-11T12:51:55.658: Wrote to server.
+2017-03-11T12:51:55.658: Sucessfully wrote to client.
+2017-03-11T12:51:55.658: Sever ready to accept a new client.
+2017-03-11T12:55:06.894: Sever ready to accept a new client.
+2017-03-11T12:55:06.894: Socket connected: /10.250.23.141:56696
+2017-03-11T12:55:06.894: Added client to client storage.
+2017-03-11T12:55:06.894: Wrote to server.
+2017-03-11T12:55:06.894: Sucessfully wrote to client.
+2017-03-11T12:55:06.894: Wrote to server.
+2017-03-11T12:55:06.894: Sucessfully wrote to client.
+2017-03-11T12:55:06.894: Sever ready to accept a new client.
+2017-03-11T13:41:37.156: Sever ready to accept a new client.
+2017-03-11T13:41:37.156: Socket connected: /10.250.23.141:59759
+2017-03-11T13:41:37.156: Added client to client storage.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Sever ready to accept a new client.
+2017-03-11T13:41:37.156: Socket connected: /10.250.23.141:59766
+2017-03-11T13:41:37.156: Added client to client storage.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Sever ready to accept a new client.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Client has disconnected.
+2017-03-11T13:41:37.156: Socket connected: /10.250.23.141:59822
+2017-03-11T13:41:37.156: Added client to client storage.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Sever ready to accept a new client.
+2017-03-11T13:41:37.156: Socket connected: /10.250.23.141:59876
+2017-03-11T13:41:37.156: Added client to client storage.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Client has disconnected.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Sever ready to accept a new client.
+2017-03-11T13:41:37.156: Socket connected: /10.250.23.141:59979
+2017-03-11T13:41:37.156: Added client to client storage.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Sever ready to accept a new client.
+2017-03-11T13:41:37.156: Socket connected: /10.250.23.141:59992
+2017-03-11T13:41:37.156: Added client to client storage.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Getting socket.
+2017-03-11T13:41:37.156: Client has disconnected.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Wrote to server.
+2017-03-11T13:41:37.156: Sucessfully wrote to client.
+2017-03-11T13:41:37.156: Sever ready to accept a new client.
+2017-03-11T13:59:38.345: Sever ready to accept a new client.
+2017-03-11T13:59:38.345: Socket connected: /10.250.23.141:60069
+2017-03-11T13:59:38.345: Added client to client storage.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Sever ready to accept a new client.
+2017-03-11T13:59:38.345: Socket connected: /10.250.23.141:60070
+2017-03-11T13:59:38.345: Added client to client storage.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Getting socket.
+2017-03-11T13:59:38.345: Getting socket.
+2017-03-11T13:59:38.345: Getting socket.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Wrote to server.
+2017-03-11T13:59:38.345: Sucessfully wrote to client.
+2017-03-11T13:59:38.345: Sever ready to accept a new client.
+2017-03-11T14:03:30.827: Sever ready to accept a new client.
+2017-03-11T14:03:30.827: Socket connected: /10.250.23.141:60105
+2017-03-11T14:03:30.827: Added client to client storage.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Sever ready to accept a new client.
+2017-03-11T14:03:30.827: Socket connected: /10.250.23.141:60106
+2017-03-11T14:03:30.827: Added client to client storage.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Sever ready to accept a new client.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Wrote to server.
+2017-03-11T14:03:30.827: Sucessfully wrote to client.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Getting socket.
+2017-03-11T14:03:30.827: Client has disconnected.
+2017-03-11T14:10:15.852: Sever ready to accept a new client.
+2017-03-11T14:10:15.852: Socket connected: /10.250.23.141:60203
+2017-03-11T14:10:15.852: Added client to client storage.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Sever ready to accept a new client.
+2017-03-11T14:10:15.852: Socket connected: /192.168.150.1:60210
+2017-03-11T14:10:15.852: Added client to client storage.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Getting socket.
+2017-03-11T14:10:15.852: Getting socket.
+2017-03-11T14:10:15.852: Getting socket.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Wrote to server.
+2017-03-11T14:10:15.852: Sucessfully wrote to client.
+2017-03-11T14:10:15.852: Sever ready to accept a new client.
+2017-03-11T14:10:15.852: Getting socket.
+2017-03-11T14:12:02.169: Sever ready to accept a new client.
+2017-03-11T14:12:02.169: Socket connected: /10.250.23.141:60217
+2017-03-11T14:12:02.169: Added client to client storage.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Sever ready to accept a new client.
+2017-03-11T14:12:02.169: Socket connected: /10.250.23.141:60218
+2017-03-11T14:12:02.169: Added client to client storage.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Getting socket.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Getting socket.
+2017-03-11T14:12:02.169: Getting socket.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Sever ready to accept a new client.
+2017-03-11T14:12:02.169: Getting socket.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Getting socket.
+2017-03-11T14:12:02.169: Getting socket.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Wrote to server.
+2017-03-11T14:12:02.169: Sucessfully wrote to client.
+2017-03-11T14:12:02.169: Getting socket.
+2017-03-11T14:18:50.220: Sever ready to accept a new client.
+2017-03-11T14:18:50.220: Socket connected: /10.250.23.141:60271
+2017-03-11T14:18:50.220: Added client to client storage.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Sever ready to accept a new client.
+2017-03-11T14:18:50.220: Socket connected: /10.250.23.141:60274
+2017-03-11T14:18:50.220: Added client to client storage.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Getting socket.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Getting socket.
+2017-03-11T14:18:50.220: Getting socket.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Wrote to server.
+2017-03-11T14:18:50.220: Sucessfully wrote to client.
+2017-03-11T14:18:50.220: Sever ready to accept a new client.
+2017-03-11T14:18:50.220: Getting socket.
+2017-03-11T14:18:50.220: Client has disconnected.
+2017-03-11T14:20:29.852: Sever ready to accept a new client.
+2017-03-11T14:20:29.852: Socket connected: /10.250.23.141:60295
+2017-03-11T14:20:29.852: Added client to client storage.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Sever ready to accept a new client.
+2017-03-11T14:20:29.852: Socket connected: /192.168.150.1:60298
+2017-03-11T14:20:29.852: Added client to client storage.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Getting socket.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Getting socket.
+2017-03-11T14:20:29.852: Getting socket.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Sever ready to accept a new client.
+2017-03-11T14:20:29.852: Getting socket.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Getting socket.
+2017-03-11T14:20:29.852: Getting socket.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Wrote to server.
+2017-03-11T14:20:29.852: Sucessfully wrote to client.
+2017-03-11T14:20:29.852: Getting socket.
+2017-03-11T14:25:04.883: Sever ready to accept a new client.
+2017-03-11T14:25:04.883: Socket connected: /10.250.23.141:60331
+2017-03-11T14:25:04.883: Added client to client storage.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Sever ready to accept a new client.
+2017-03-11T14:25:04.883: Socket connected: /10.250.23.141:60332
+2017-03-11T14:25:04.883: Added client to client storage.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Sever ready to accept a new client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Wrote to server.
+2017-03-11T14:25:04.883: Sucessfully wrote to client.
+2017-03-11T14:25:04.883: Getting socket.
+2017-03-11T18:34:18.569: Sever ready to accept a new client.
+2017-03-11T18:34:18.569: Socket connected: /10.250.2.253:50600
+2017-03-11T18:34:18.569: Added client to client storage.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Sever ready to accept a new client.
+2017-03-11T18:34:18.569: Socket connected: /10.250.2.253:50603
+2017-03-11T18:34:18.569: Added client to client storage.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Getting socket.
+2017-03-11T18:34:18.569: Getting socket.
+2017-03-11T18:34:18.569: Getting socket.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Wrote to server.
+2017-03-11T18:34:18.569: Sucessfully wrote to client.
+2017-03-11T18:34:18.569: Sever ready to accept a new client.
+2017-03-11T18:34:18.569: Getting socket.
+2017-03-11T18:34:18.569: Client has disconnected.

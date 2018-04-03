@@ -1,0 +1,14 @@
+2017-03-10T19:00:27.206: Client disconnected
+2017-03-10T19:00:27.206: Client disconnected
+2017-03-11T13:41:37.156: Client disconnected
+2017-03-11T13:41:37.156: Client disconnected
+2017-03-11T13:41:37.156: Client disconnected
+2017-03-11T13:41:37.156: Client disconnected
+2017-03-11T13:41:37.156: Client disconnected
+2017-03-11T13:41:37.156: Client disconnected
+2017-03-11T14:03:30.827: Client disconnected
+2017-03-11T14:03:30.827: Client disconnected
+2017-03-11T14:18:50.220: Client disconnected
+2017-03-11T14:18:50.220: Client disconnected
+2017-03-11T18:34:18.569: Could not read line from socket.
+2017-03-11T18:34:18.569: Client disconnected
